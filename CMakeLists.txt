@@ -6,5 +6,7 @@ SET(CMAKE_CXX_FLAGS_RELEASE "-std=c++11 -w -Wall -O3 -ffast-math -fomit-frame-po
 #SET(CMAKE_CXX_FLAGS_DEBUG "-g")
 SET(CMAKE_BUILD_TYPE RELEASE)
 
+#find_package(OpenCV REQUIRED)
+
 ADD_SUBDIRECTORY( src )
 ADD_SUBDIRECTORY( apps )
