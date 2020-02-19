@@ -1,5 +1,7 @@
 # GraphSegmentation
 
+![Demo](img/demo.png)
+
 This algorithm for graph-segmentation was originally 
 developed by Pedro F. Felzenszwalb. Its C++ implementation 
 is freely available by him under the terms of the GNU General Public License.
